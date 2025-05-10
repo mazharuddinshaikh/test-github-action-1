@@ -14,7 +14,7 @@ public class TestGithubAction1Application implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("Application started");
-		
+
 	}
 
 }
